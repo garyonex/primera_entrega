@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "title": "aguacate",
+    "price": "2",
+    "stock": "2262",
+    "thumbnail": "papa.jpg"
+  },
+  {
+    "id": 2,
+    "title": "peras",
+    "price": "255",
+    "stock": "22",
+    "thumbnail": "peras.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Tomate",
+    "price": "25555",
+    "stock": "22",
+    "thumbnail": "tomate.jpg"
+  },
+  {
+    "id": 4
+  },
+  {
+    "id": 5,
+    "title": "manzana",
+    "price": "41",
+    "stock": "555",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/gardening-caramel-vol-1/256/APPLE-64.png"
+  },
+  {
+    "id": 6,
+    "title": "manzana",
+    "price": "22522",
+    "stock": "222",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/gardening-caramel-vol-1/256/APPLE-64.png"
+  }
+]
